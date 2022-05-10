@@ -1,6 +1,6 @@
 # **A✰ Visualizator**
 
-**A✰ Visualizator** as it name implies it's a visualizator for the **A\* search algorithm**. I made it in C++ using SFML library**
+**A✰ Visualizator** as it name implies it's a visualizator for the **A\* search algorithm**. I made it in **C++ using SFML library**
 
 ## **How to use**
     1. Execute sfml-app.exe
